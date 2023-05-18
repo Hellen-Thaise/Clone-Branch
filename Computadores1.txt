@@ -1,0 +1,20 @@
+Evolução dos Computadores:
+Pesquisas feitas recentemente revelam que houve um aumento considerável no número de pessoas que possuem computador em casa. Poucos sabem sobre o processo de evolução dos computadores, até chegar aos modelos modernos de tecnologia de ponta dos dias atuais. 
+A seguir a evolução cronológica dos computadores:
+
+- 1946: é anunciada a criação do primeiro computador digital eletrônico de grande escala do mundo, o ENIAC (Electrical Numerical Integrator and Calculator).
+
+- 1951 a 1959: surgem os computadores de primeira geração. Esses eram capazes de calcular com uma velocidade de milésimos de segundo, além de serem programados em linguagem de máquina.
+
+- 1959 a 1965: surgem os computadores de segunda geração, com capacidade de calcular com uma velocidade de microssegundos, sendo programados em linguagem montadora.
+
+- 1965 a 1975: nascem os computadores da terceira geração. Esses computadores passam a ter diversos componentes miniaturizados e montados em um único CHIP, sendo capazes de calcular em nanossegundos, com uma linguagem de programação de alto nível, orientada para os procedimentos.
+
+- 1975 a 1981: são criados os computadores da quarta geração. Seguindo a tendência da terceira geração de miniaturização de seus componentes e o aperfeiçoamento dos seus Circuitos Integrados (CI). As linguagens utilizadas nessa geração eram de altíssimo nível, orientada para um problema.
+
+- 1990: a partir dessa década são lançados softwares de melhor qualidade e com capacidade de processar as informações com maior rapidez.
+
+- 2000: após a virada do milênio os computadores continuaram a seguir a tendência de miniaturização de seus componentes e, tornando dessa forma os computadores mais maleáveis e práticos nas tarefas diárias. Além disso, há um investimento maciço em seu design.
+
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
